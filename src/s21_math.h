@@ -14,6 +14,7 @@
 #define S21_2_SQRTPI 1.12837916709551257390 /* 2/sqrt(pi) */
 #define S21_SQRT2 1.41421356237309504880    /* sqrt(2) */
 #define S21_SQRT1_2 0.70710678118654752440
+#define NUM_OF_TERMS 6
 
 int s21_abs(int x);                            // computes absolute value of an integer value
 long double s21_acos(double x);                // computes arc cosine
